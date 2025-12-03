@@ -57,7 +57,7 @@ connect-zap/
 
 # [Trello] https://trello.com/invite/b/693084acf1ba70ee8e18b692/ATTIba3ae1e939a80095090b6d0dee19763949E11692/kanban-whatsapp-project
 
-Serão 4 colunas: Backlog (Ideias futuras), To Do (Fazer nessa semana), Doing (Fazendo agora), Done
+Serão 4 colunas: Backlog (Caixa de entrada das tasks e Ideias futuras), To Do (Fazer nessa semana), Doing (Fazendo agora), Done
 
 As Tasks Iniciais (Cards) essenciais para o MVP
 
